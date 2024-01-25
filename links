@@ -1,6 +1,13 @@
 {
 
-"igwzlink":"",
-"satepowerlink":""
+"sharedbooklink":"https://raw.githubusercontent.com/igwzpro/reader/main/shared",
+
+"quoteslink":"https://raw.githubusercontent.com/igwzpro/reader/main/quotes",
+
+"quizlink":"https://raw.githubusercontent.com/igwzpro/reader/main/quiz",
+
+"igwzlink":"https://raw.githubusercontent.com/igwzpro/reader/main/revision",
+
+"brainwashlink":"https://raw.githubusercontent.com/igwzpro/reader/main/bwash"
 
 }
