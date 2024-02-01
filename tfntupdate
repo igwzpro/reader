@@ -1,1 +1,20 @@
+{
 
+  "Visibility": "VISIBLE",
+
+  "Title": "ပြုပြင်ပြောင်းလဲမှုများ။",
+
+  "Description": "👉 တချို့အမှားများပြင်ဆင်ပေးထားသည်။ 
+👉 လုပ်ဆောင်စရာအသစ်များပါဝင်သည်။",
+
+  "MainTextButton": "ရယူမည်",
+
+  "Cancelable": "true",
+
+  "CancelButtonText": "မယူဘူး",
+
+  "DownloadLink": "https://www.google.com.mm/",
+
+  "Version": "1.1"
+
+}
