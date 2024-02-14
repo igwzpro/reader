@@ -25,7 +25,11 @@
 "olduserslist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378",
 
 #အမည်ပြောင်းခြင်း
-"profnames":"systemname",
-"namechangedlist":"android_id"
+"profnames":"android_id",
+"namechangedlist":"android_id",
+
+#အမည်ပြောင်းပြီးသားIDများနှင့်အမည်များ
+"android_id":"name",
+
 
 }
