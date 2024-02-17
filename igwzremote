@@ -14,23 +14,23 @@
 
 "igwzSliderImage1": "https://i.pinimg.com/736x/05/4a/91/054a91b4de226a6cebe4d000775b4ed7.jpg",
 "checkText":"https://i.pinimg.com/736x/05/4a/91/054a91b4de226a6cebe4d000775b4ed7.jpg",
-
 "slidertxt1":"အင်္ဂဝဇ္ဇာပညာ",
+"notice1":"",
 
 "igwzSliderImage2": "https://i.pinimg.com/736x/6a/37/61/6a376108fa7d822e0aff983d2944089d.jpg",
-
 "slidertxt2":"စိတ်အားဖြည့်စာများ",
+"notice2":"",
 
 "igwzSliderImage3": "https://i.pinimg.com/736x/70/c0/db/70c0db0826cb544f09025ec20a12b88b.jpg",
-
 "slidertxt3":"မှတ်ကျောက်များ",
+"notice3":"",
 
 "igwzSliderImage4": "https://i.pinimg.com/736x/d1/72/88/d17288540ff16e9fba0155c47f5aa06f.jpg",
-
 "slidertxt4":"စိတ်ပညာ",
+"notice4":"",
 
 "igwzSliderImage5": "https://i.pinimg.com/736x/6f/d6/ca/6fd6ca17f4fd675a584289b9720b803c.jpg",
-
 "slidertxt5":"အရွယ်ရောက်ခြင်း"
+"notice5":"",
 
 }
