@@ -1,8 +1,5 @@
 {
 
-#freeforall
-"freeallusers":"YES",
-
 #blockusers
 "blockusers":"",
 
@@ -18,7 +15,7 @@
 
 "otherlist":"2b9706220ffbf434 f6a40f534355d8c7",
 
-"bwashlist":"2b9706220ffbf434",
+"bwashlist":"FREE",
 
 "quizlist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 feb43573c7c73793",
 
