@@ -1,5 +1,11 @@
 {
 
+#ဒေတာသန့်ခြင်း YES ဆို သန့်မည်။
+
+  "cleanCache":"YES",
+
+#အကြောင်းအရာအသစ်တင်ပြီးရင် TRUE ဆို refresh။
+
   "refreshIt":"TRUE",
 
   "Visibility": "VISIBLE",
