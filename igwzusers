@@ -4,25 +4,25 @@
 "blockusers":"",
 
 #passwordbypass
-"noseculist":"2b9706220ffbf434 f6a40f534355d8c7",
+"noseculist":"2b9706220ffbf434 f6a40f534355d8c7 be80ab761d23105c",
 
 #screenshotblock
 "scrreclist":"2b9706220ffbf434",
 
-"igwzlist":"2b9706220ffbf434",
+"igwzlist":"2b9706220ffbf434 f6a40f534355d8c7 be80ab761d23105c",
 
-"knowledgelist":"2b9706220ffbf434",
+"knowledgelist":"2b9706220ffbf434 f6a40f534355d8c7 be80ab761d23105c",
 
-"otherlist":"fr33 2b9706220ffbf434 f6a40f534355d8c7",
+"otherlist":"fr33 2b9706220ffbf434 f6a40f534355d8c7 be80ab761d23105c",
 
-"bwashlist":"2b9706220ffbf434",
+"bwashlist":"2b9706220ffbf434 be80ab761d23105c f6a40f534355d8c7",
 
-"quizlist":"fr33 2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 feb43573c7c73793",
+"quizlist":"fr33 2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 feb43573c7c73793 be80ab761d23105c",
 
-"quoteslist":"fr33 2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 feb43573c7c73793",
+"quoteslist":"fr33 2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 feb43573c7c73793 be80ab761d23105c",
 
 #ggsheetကိုစာရင်းပြန်မပို့ရန်
-"olduserslist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378",
+"olduserslist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 be80ab761d23105c",
 
 #အမည်ပြောင်းခြင်း
 "profnamelist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 be80ab761d23105c",
