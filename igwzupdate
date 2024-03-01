@@ -10,7 +10,7 @@
 
 #အကြောင်းအရာအသစ်တင်ပြီးရင် TRUE ဆို refresh။
 
-  "refreshIt":"FALSE",
+  "refreshIt":"TRUE",
 
   "Visibility": "VISIBLE",
 
