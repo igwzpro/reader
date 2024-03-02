@@ -10,7 +10,7 @@
 
 #အကြောင်းအရာအသစ်တင်ပြီးရင် TRUE ဆို refresh။
 
-  "refreshIt":"true",
+  "refreshIt":"TRUE",
 
   "Visibility": "VISIBLE",
 
@@ -29,6 +29,6 @@
 
   "DownloadLink": "https://www.dropbox.com/scl/fi/t6fcmrb7wvqde7k2qx35y/621.apk?rlkey=4nz4m6a8p9f286eamv0zp336j&dl=1",
 
-  "Version": "6.23"
+  "Version": "6.22"
 
 }
