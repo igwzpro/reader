@@ -1,19 +1,21 @@
 {
 
-    #အရင် id ချိန်းပါ
-    "renotiID":"001",
-    "renotiTitle":"ဆာဗာ အဆင့်မြှင့်နေသည်",
-    "renotiMessage":"ဆာဗာ အဆင်မြှင့်နေစဉ်အတွင်း တချို့အရာများ သုံးမရပါ။", "reimageLink":"https://i.pinimg.com/736x/93/66/2e/93662e48e76d2dbfab683332a2b932d8.jpg",
-    
-    #အရင် id ချိန်းပါ
-    "upnotiID":"01",
-    "upnotiTitle":"ဗားရှင်း အသစ်ရပါပြီ။",
-    "upnotiMessage":"ဗားရှင်းအသစ်ကို ရယူပါ။ အမှားများ ပြင်ပေးထားပါသည်။",
+#အရင် id ချိန်းပါ
+"renotiID":"001",
+"renotiTitle":"ဆာဗာ အဆင့်မြှင့်နေသည်",
+"renotiMessage":"ဆာဗာ အဆင်မြှင့်နေစဉ်အတွင်း တချို့အရာများ သုံးမရပါ။",
+"reimageLink":"https://i.pinimg.com/736x/93/66/2e/93662e48e76d2dbfab683332a2b932d8.jpg",
+
+#အရင် id ချိန်းပါ
+"upnotiID":"01",
+"upnotiTitle":"ဗားရှင်း အသစ်ရပါပြီ။",
+"upnotiMessage":"ဗားရှင်းအသစ်ကို ရယူပါ။ အမှားများ ပြင်ပေးထားပါသည်။",
 "upimageLink":"https://i.pinimg.com/736x/93/66/2e/93662e48e76d2dbfab683332a2b932d8.jpg",
-    
-    #အရင် id ချိန်းပါ
-    "notiID":"1",
-    "notiTitle":"ဘဝတု သဗ္ဗ မင်္ဂလံ",
-    "notiMessage":"ဗဟုသုတရပြီးပျောက်ကွယ်နေသော ပညာရပ်များ လေ့လာပါ။", "imageLink":"https://i.pinimg.com/736x/93/66/2e/93662e48e76d2dbfab683332a2b932d8.jpg"
+
+#အရင် id ချိန်းပါ
+"notiID":"1",
+"notiTitle":"ဘဝတု သဗ္ဗ မင်္ဂလံ",
+"notiMessage":"ဗဟုသုတရပြီးပျောက်ကွယ်နေသော ပညာရပ်များ လေ့လာပါ။",
+"imageLink":"https://i.pinimg.com/736x/93/66/2e/93662e48e76d2dbfab683332a2b932d8.jpg"
 
 }
