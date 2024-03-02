@@ -7,8 +7,6 @@
     #false ဆို click ရင်မပျောက်ဘူး
     "autoCancel":"true",
     #false ဆို ဖယ်လို့ရတယ်
-    "ongoing":"true",
-    #sp ရှင်းရင် blank မထားနှင့်
-    "cleanSP":""
+    "ongoing":"true"
     
 }
