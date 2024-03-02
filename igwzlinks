@@ -1,21 +1,14 @@
 {
-
-"igwzbooklink":"https://raw.githubusercontent.com/igwzpro/reader/main/igwzbook",
-
-"quoteslink":"https://raw.githubusercontent.com/igwzpro/reader/main/igwzquotes",
-
-"quizlink":"https://raw.githubusercontent.com/igwzpro/reader/main/igwzquiz",
-
-"knowledgelink":"https://raw.githubusercontent.com/igwzpro/reader/main/igwzknowledge",
-
-"brainwashlink":"https://raw.githubusercontent.com/igwzpro/reader/main/igwzbwash",
-
-"storylink":"https://raw.githubusercontent.com/igwzpro/reader/main/igwzsmsy",
-
-"userslink":"https://raw.githubusercontent.com/igwzpro/reader/main/igwzusers",
-
-"remotelink":"https://raw.githubusercontent.com/igwzpro/reader/main/igwzremote",
-
-"updatelink":"https://raw.githubusercontent.com/igwzpro/reader/main/igwzupdate"
-
+    #id ချိန်းပါ
+    "notiID":"033",
+    "notiTitle":"ဘဝတု သဗ္ဗ မင်္ဂလံ",
+    "notiMessage":"ဗဟုသုတရပြီးပျောက်ကွယ်နေသော ပညာရပ်များ လေ့လာပါ။",
+    "imageLink":"https://i.pinimg.com/736x/93/66/2e/93662e48e76d2dbfab683332a2b932d8.jpg",
+    #false ဆို click ရင်မပျောက်ဘူး
+    "autoCancel":"true",
+    #false ဆို ဖယ်လို့ရတယ်
+    "ongoing":"true",
+    #sp ရှင်းရင် blank မထားနှင့်
+    "cleanSP":""
+    
 }
