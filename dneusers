@@ -13,7 +13,7 @@
 "igwzlist":"2b9706220ffbf434 f6a40f534355d8c7",
 
 #စိတ်ပညာ
-"knowledgelist":"2b9706220ffbf434 f6a40f534355d8c7 35abe74f90f6e81d 5bd4d42836ece610 ae8f15ba3ab08735 6ef4f4b38d96e26a 5a70a01a93d8c06d c306602c4f783cf8 21c2dc49545267a3 bd899846754321c7 c2ba73f642b267c5 9785a6c1dcffcc71 ded21be16fdaff0e f6598d1e96208c95 f89a9ed70ed24119 d005566c099d207a 7959d272030fd44a bf8fce96ccd594bf 1b3721b3c9fa0c03",
+"knowledgelist":"2b9706220ffbf434 f6a40f534355d8c7",
 
 #ဤစုပ်
 "otherlist":"fr33 2b9706220ffbf434 f6a40f534355d8c7",
@@ -37,32 +37,15 @@
 "olduserslist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378",
 
 #အမည်ပြောင်းခြင်း
-"profnamelist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 35abe74f90f6e81d 5bd4d42836ece610 ae8f15ba3ab08735 6ef4f4b38d96e26a 5a70a01a93d8c06d c306602c4f783cf8 21c2dc49545267a3 bd899846754321c7 c2ba73f642b267c5 9785a6c1dcffcc71 ded21be16fdaff0e f6598d1e96208c95 f89a9ed70ed24119 d005566c099d207a 7959d272030fd44a bf8fce96ccd594bf 1b3721b3c9fa0c03",
+"profnamelist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378",
 
 #အမည်ပြောင်းပြီးသားIDများနှင့်အမည်များ
 "2b9706220ffbf434":"снежинка",
 "f6a40f534355d8c7":"WEEP",
 "d4946b3ec38f6378":"မတူး",
-"35abe74f90f6e81d":"ခန့်ကျော်ထွဋ်",
-"5bd4d42836ece610":"Min Gyi",
-"ae8f15ba3ab08735":"ကျော်ကြီး",
-"6ef4f4b38d96e26a":"သက်အောင်",
-"5a70a01a93d8c06d":"Ko Nay",
-"c306602c4f783cf8":"Kyal Leo",
-"21c2dc49545267a3":"စုထွေး",
-"bd899846754321c7":"Ko Kaung",
-"c2ba73f642b267c5":"ရဲရင့်",
-"9785a6c1dcffcc71":"ကိုစော",
-"ded21be16fdaff0e":"ခိုင်သွယ့်",
-"f6598d1e96208c95":"နှောင်းကို",
-"f89a9ed70ed24119":"Kyaw Soe Lin",
-"d005566c099d207a":"ဝင်းထွန်းလတ်",
-"7959d272030fd44a":"ပြည့်ပြည့်",
-"bf8fce96ccd594bf":"ကျော်စွာ",
-"1b3721b3c9fa0c03":"TIN THU LIN AUNG",
 
 
 
-"namechangedlist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 35abe74f90f6e81d 5bd4d42836ece610 ae8f15ba3ab08735 6ef4f4b38d96e26a 5a70a01a93d8c06d c306602c4f783cf8 21c2dc49545267a3 bd899846754321c7 c2ba73f642b267c5 9785a6c1dcffcc71 ded21be16fdaff0e f6598d1e96208c95 f89a9ed70ed24119 d005566c099d207a 7959d272030fd44a bf8fce96ccd594bf 1b3721b3c9fa0c03"
+"namechangedlist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378"
 
 }
