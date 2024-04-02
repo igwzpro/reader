@@ -1,6 +1,6 @@
 {
 
-"ctrlGotoCompass":"try{
+"ctrlGotoVideo":"try{
 	if (_isNetworkAvailableAndConnected()) {
 		VIDEO_URL = spigwz.getString("tayartaws", "").trim();
 		if (!VIDEO_URL.equals("")) {
