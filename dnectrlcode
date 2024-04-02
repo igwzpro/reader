@@ -1,6 +1,19 @@
 {
 
-"ctrlTest":"",
+"ctrlGotoCompass":"try{
+	if (_isNetworkAvailableAndConnected()) {
+		VIDEO_URL = spigwz.getString("tayartaws", "").trim();
+		if (!VIDEO_URL.equals("")) {
+			startActivity(new Intent(getApplicationContext(), IgwzvidActivity.class)
+			                      .putExtra("mode", true)
+			                      .putExtra("data", VIDEO_URL));
+		}
+	}
+	else {
+		_snegflake_toast("အင်တာနက်မရပါ");
+	}
+} catch (Exception e) {
+}",
 
 "ctrlActivity":"",
 
