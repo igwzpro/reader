@@ -27,25 +27,25 @@
 "scrreclist":"2b9706220ffbf434",
 
 #အင်္ဂဝိဇ္ဇာ
-"igwzlist":"2b9706220ffbf434 f6a40f534355d8c7 4dbbb7b0c0e28b2e",
+"igwzlist":"f6a40f534355d8c7 4dbbb7b0c0e28b2e",
 
 #စိတ်ပညာ
-"knowledgelist":"2b9706220ffbf434 f6a40f534355d8c7",
+"knowledgelist":"f6a40f534355d8c7",
 
-#အခြား
+#အခြားနှင့် နိမိတ်ပညာ
 "otherlist":"f6a40f534355d8c7",
 
 #တားရော့
-"bwashlist":"2b9706220ffbf434 f6a40f534355d8c7",
+"bwashlist":"f6a40f534355d8c7",
 
 #ဉာဏ်စမ်း
-"quizlist":"fr33 2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 feb43573c7c73793",
+"quizlist":"f6a40f534355d8c7 d4946b3ec38f6378 feb43573c7c73793",
 
 #ဆရာတော်‌ဦးဇောတိက
-"quoteslist":" fr33 2b9706220ffbf434 f6a40f534355d8c7",
+"quoteslist":"f6a40f534355d8c7",
 
-#ယတြာများ တင်ထားသည်
-"ownlist":" f6a40f534355d8c7 9b155dc4bfaec505",
+#ယတြာများ ဂါထာများ တင်ထားသည်
+"ownlist":"f6a40f534355d8c7 9b155dc4bfaec505",
 
 #update မလုပ်ဘူးထင်သူစာရင်း
 "notyetupdatelist":"",
