@@ -9,10 +9,10 @@
 "adremusers1":"2b9706220ffbf434",
 
 #usertips
-"usertips":"2b9706220ffbf434 f6a40f534355d8c7 4dbbb7b0c0e28b2e",
+"usertips":"2b9706220ffbf434 f6a40f534355d8c7",
 
 #noclean72hours
-"nocln72hrs":"2b9706220ffbf434 f6a40f534355d8c7 4dbbb7b0c0e28b2e",
+"nocln72hrs":"2b9706220ffbf434 f6a40f534355d8c7",
 
 #enendeusers
 "endeusers":"2b9706220ffbf434",
@@ -21,13 +21,13 @@
 "blockusers":"",
 
 #passwordbypass
-"noseculist":"2b9706220ffbf434 f6a40f534355d8c7 4dbbb7b0c0e28b2e",
+"noseculist":"2b9706220ffbf434 f6a40f534355d8c7",
 
 #screenshotblock
 "scrreclist":"2b9706220ffbf434",
 
 #အင်္ဂဝိဇ္ဇာ
-"igwzlist":"f6a40f534355d8c7 4dbbb7b0c0e28b2e",
+"igwzlist":"f6a40f534355d8c7",
 
 #စိတ်ပညာ
 "knowledgelist":"f6a40f534355d8c7",
@@ -39,7 +39,7 @@
 "bwashlist":"f6a40f534355d8c7",
 
 #ဉာဏ်စမ်း
-"quizlist":"f6a40f534355d8c7 d4946b3ec38f6378 feb43573c7c73793",
+"quizlist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378",
 
 #ဆရာတော်‌ဦးဇောတိက
 "quoteslist":"f6a40f534355d8c7",
@@ -51,18 +51,17 @@
 "notyetupdatelist":"",
 
 #ggsheetကိုစာရင်းပြန်မပို့ရန်
-"olduserslist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 4dbbb7b0c0e28b2e 9b155dc4bfaec505",
+"olduserslist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 9b155dc4bfaec505",
 
 #အမည်ပြောင်းခြင်း
-"profnamelist":" f6a40f534355d8c7 d4946b3ec38f6378 8ffc4bfb80298105 4dbbb7b0c0e28b2e 9b155dc4bfaec505",
+"profnamelist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 9b155dc4bfaec505",
 
 #အမည်ပြောင်းပြီးသားIDများနှင့်အမည်များ
-
+"2b9706220ffbf434":"SNΞGFLAKΞ",
 "f6a40f534355d8c7":"WEEP",
 "d4946b3ec38f6378":"မတူး",
 "9b155dc4bfaec505":"ဗူးခွံ",
-"4dbbb7b0c0e28b2e":"ဂျေဆဲဗင်းပရိုင်း",
 
-"namechangedlist":" f6a40f534355d8c7 d4946b3ec38f6378 8ffc4bfb80298105 4dbbb7b0c0e28b2e 9b155dc4bfaec505"
+"namechangedlist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 9b155dc4bfaec505"
 
 }
