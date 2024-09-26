@@ -6,7 +6,7 @@
 #AdRemoveUserID
 "adremusers":"",
 
-"adremusers1":"",
+"adremusers1":"2b9706220ffbf434",
 
 #usertips
 "usertips":"2b9706220ffbf434 f6a40f534355d8c7",
@@ -27,42 +27,38 @@
 "scrreclist":"2b9706220ffbf434",
 
 #အင်္ဂဝိဇ္ဇာ
-"igwzlist":"f6a40f534355d8c7",
+"igwzlist":"2b9706220ffbf434 f6a40f534355d8c7",
 
 #စိတ်ပညာ
-"knowledgelist":"f6a40f534355d8c7",
+"knowledgelist":"2b9706220ffbf434 f6a40f534355d8c7",
 
 #အခြားနှင့် နိမိတ်ပညာ
-"otherlist":"f6a40f534355d8c7",
+"otherlist":"f2b9706220ffbf434 6a40f534355d8c7",
 
 #တားရော့
-"bwashlist":"f6a40f534355d8c7",
+"bwashlist":"2b9706220ffbf434 f6a40f534355d8c7",
 
 #ဉာဏ်စမ်း
-"quizlist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378",
+"quizlist":"f6a40f534355d8c7 d4946b3ec38f6378",
 
 #ဆရာတော်‌ဦးဇောတိက
-"quoteslist":"f6a40f534355d8c7",
+"quoteslist":"2b9706220ffbf434 f6a40f534355d8c7",
 
 #ယတြာများ ဂါထာများ တင်ထားသည်
-"ownlist":"f6a40f534355d8c7 9b155dc4bfaec505",
+"ownlist":"2b9706220ffbf434 f6a40f534355d8c7 9b155dc4bfaec505",
 
 #update မလုပ်ဘူးထင်သူစာရင်း
 "notyetupdatelist":"",
 
 #ggsheetကိုစာရင်းပြန်မပို့ရန်
-"olduserslist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 9b155dc4bfaec505",
+"olduserslist":"2b9706220ffbf434 f6a40f534355d8c7 9b155dc4bfaec505",
 
 #အမည်ပြောင်းစာရင်း
-"profnamelist":"2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378 9b155dc4bfaec505",
+"profnamelist":"f6a40f534355d8c7 d4946b3ec38f6378 9b155dc4bfaec505",
 
 #IDများနှင့်အမည်များ
 "2b9706220ffbf434":"SNΞGFLAKΞ",
 "f6a40f534355d8c7":"WEEP",
-"d4946b3ec38f6378":"မတူး",
-"9b155dc4bfaec505":"ဗူးခွံ",
-
-#အမည်ပြောင်းပြီးစာရင်း
-"namechangedlist":"2b9706220ffbf434"
+"9b155dc4bfaec505":"ဗူးခွံ"
 
 }
