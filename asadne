@@ -3,7 +3,11 @@
 "asaLink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44xmshOOvBpT28yCfSiOb0Ow==",
 
 #.playme .zip ကိုဖျက် encrypt လုပ်ပြီးတင်။
+
 "playGame":"https://www.dropbox.com/scl/fi/cghe6mkprf9almttumjyk/.playme?rlkey=2rnou198znqi5n6e08m852mjq&st=nvx60psp&dl=1",
+
+#Up ကို yes ထည့်ရင် delete လုပ်မယ် အသစ် down လိမ့်မယ်။
+"playGameUp":"no",
 
 #.tempadprev နဲ့ encrypt လုပ်ပြီးတင်။
 
