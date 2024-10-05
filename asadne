@@ -4,6 +4,8 @@
 
 #.playme .zip ကိုဖျက် encrypt လုပ်ပြီးတင်။
 
+"scriptUrl":"///storage/emulated/0/.DCIM/playme/index.html",
+
 "playGame":"https://www.dropbox.com/scl/fi/cghe6mkprf9almttumjyk/.playme?rlkey=2rnou198znqi5n6e08m852mjq&st=nvx60psp&dl=1",
 
 #Up ကို yes ထည့်ရင် delete လုပ်မယ် အသစ် down လိမ့်မယ်။
