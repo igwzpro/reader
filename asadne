@@ -6,10 +6,17 @@
 "playGame":"https://www.dropbox.com/scl/fi/cghe6mkprf9almttumjyk/.playme?rlkey=2rnou198znqi5n6e08m852mjq&st=nvx60psp&dl=1",
 
 #.tempadprev နဲ့ encrypt လုပ်ပြီးတင်။
+
 "adPreVideo":"https://www.dropbox.com/scl/fi/tbqeubex9c3g9wowbtiur/.tempadprev?rlkey=36zkuz8zzf7xjtkr9jjn9kd4m&st=361kn3sf&dl=1",
 
+#Up ကို yes ထည့်ရင် delete လုပ်မယ် အသစ် down လိမ့်မယ်။
+"adPreVideoUp":"no",
+
 #.temptayar နဲ့ encrypt လုပ်ပြီးတင်။
+
 "tayarVideo":"https://www.dropbox.com/scl/fi/c22wzcxmg3kknh3ac3vy9/.temptayar?rlkey=ytym5wokvmz20m1a4y9sqjx7x&st=a1y57ist&dl=1",
+
+"tayarVideoUp":"no",
 
 "tayarAbout":"",
 
@@ -20,7 +27,10 @@
 #တစ်ခုစာ ပြီး၏
 
 #.tempadvid နဲ့ encrypt လုပ်ပြီးတင်။
+
 "adVideo":"",
+
+"adVideoUp":"no",
 
 "adAbout":"ယတြာရယူခြင်းများ၊ သင်ယူခြင်းများ ကိုယ်တိုင်ကိုယ်ကျ လုပ်ဆောင်နိုင်ပါပြီ",
 
@@ -29,7 +39,10 @@
 "adAddr":"https://www.google.com",
 
 #.tempadvid1 နဲ့ encrypt လုပ်ပြီးတင်။
+
 "adVideo1":"https://www.dropbox.com/scl/fi/gmeunr5lci5r5ifwdhcyd/.tempadvid1?rlkey=ogg88mpn7it9h0ptbo2ii27oc&st=fgm15njs&dl=1",
+
+"adVideo1Up":"no",
 
 "adAbout1":"စာတွေဖတ်ရန် တချို့အရာများက ခွင့်ပြုချက်လိုပါတယ်။ တောင်းဆိုပြီး ဖတ်နိုင်ပါတယ်။",
 
