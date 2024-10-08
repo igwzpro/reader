@@ -7,13 +7,22 @@
 "tayarName5":"ဓမ္မစကြာ",
 "tayarName6":"ဒေါက်တာ အရှင်နန္ဒမာလာဘိဝံသ",
 
-#mp3 ဖြစ်နေရင် thumb link ထည့်ရန်။
+#mp3 ဖြစ်နေရင် thumb image link ထည့်ရန်။
 "tayarThumb1":"",
 "tayarThumb2":"",
 "tayarThumb3":"",
 "tayarThumb4":"",
 "tayarThumb5":"",
 "tayarThumb6":"",
+
+#type အမျိုးအစား ထည့်ရန်
+
+"tayar1Type":"mp4",
+"tayar2Type":"mp3",
+"tayar3Type":"",
+"tayar4Type":"",
+"tayar5Type":"",
+"tayar6Type":"",
 
 "asaLink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44xmshOOvBpT28yCfSiOb0Ow==",
 
