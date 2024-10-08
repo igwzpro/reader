@@ -78,8 +78,6 @@ N9a6led+Jw==",
 
 "userslink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44jDlticOHhkIDz4LLraTSUw==",
 
-"updatelink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44tl2iHkurSaET3runHEe/zA==",
-
 "ggsheetlink":"Pr95pMPPZy0KTmMUkSEDzYXrnObnNWAarjSDbi/XLK8CHEIzKnVxHrfZ45f06lRraj4AJi/tfNFMFeeSVgt6TmLbVk+0wofDf8qhjgDIwRpsRDA6EwfPw+KZfmyjXiMLm1l4BDcPGidpDbvRWOLn/Vz5
 RCjbmDhu4vJShB79+R8=",
 
@@ -87,6 +85,35 @@ RCjbmDhu4vJShB79+R8=",
 
 "contactMe":"N7smNEndhw3GAi1QPN36paPQKyPNtr9A/Ru1EMw4slc=",
 
+#ကပ်ခ်ျရှင်းရန် id ထည့်ပါ
+
+  "cleanCacheLists":"2b9706220ffbf434 f6a40f534355d8c7",
+
+#သံသယရှိသူ uninstall လုပ်ရန် id ထည့်ရန်/ allDel ဆိုသုံးသမျှလူ အကုန်ဖျက်သည်
+
+  "thanThayaLists":"",
+
+#အကြောင်းအရာအသစ်တင်ပြီးရင် TRUE ဆို refresh။
+
+  "refreshIt":"FALSE",
+
+#update ပေးတဲ့ နေရာ အစ
+  "Visibility": "VISIBLE",
+
+  "Title": "ပြုပြင်ထားသော စာရင်းများ",
+
+  "Description": "👉 ဆာဗာပြင်။\n👉 ပုံမှန် update။\n👉 ခွင့်ပြုချက် အသစ်ပြင်။\n👉 And10+ နှင့်အထက်ပြင်။\n👉 နိုတီပြင်။\n👉 ကြောငြာပြင်။",
+
+  "MainTextButton": "ရယူမည်",
+
+  "Cancelable": "true",
+
+  "CancelButtonText": "မယူဘူး",
+
+  "DownloadLink":"https://www.xnxx.com/",
+
+  "Version": "6.81"
+#update ပေးတဲ့နေရာ အဆုံး
 #
 
 "readMe":"“တစ်သီးပုဂ္ဂလ အမှာစာ။”
