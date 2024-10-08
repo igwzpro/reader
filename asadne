@@ -1,11 +1,19 @@
 {
 
-"tayarName1":"မဟာသမယသုတ်(စာတန်းထိုး)",
-"tayarName2":"၂၄ ပစ္စည်းပဌာန်း(အသံ)",
+"tayarName1":"မဟာသမယသုတ် (ရုပ်သံ)",
+"tayarName2":"၂၄ ပစ္စည်းပဌာန်း (အသံ)",
 "tayarName3":"ပရိတ်ကြီး (၁၁) သုတ်",
 "tayarName4":"မေတ္တာပို့",
 "tayarName5":"ဓမ္မစကြာ",
 "tayarName6":"ဒေါက်တာ အရှင်နန္ဒမာလာဘိဝံသ",
+
+#mp3 ဖြစ်နေရင် thumb link ထည့်ရန်။
+"tayarThumb1":"",
+"tayarThumb2":"",
+"tayarThumb3":"",
+"tayarThumb4":"",
+"tayarThumb5":"",
+"tayarThumb6":"",
 
 "asaLink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44xmshOOvBpT28yCfSiOb0Ow==",
 
