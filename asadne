@@ -1,19 +1,15 @@
 {
 
+#တရားအမည်ပြခြင်း
 "tayarName1":"မဟာသမယသုတ် (ရုပ်သံ)",
 "tayarName2":"၂၄ ပစ္စည်းပဌာန်း (အသံ)",
 "tayarName3":"ပရိတ်ကြီး (၁၁) သုတ်",
 "tayarName4":"မေတ္တာပို့",
 "tayarName5":"ဓမ္မစကြာ",
 "tayarName6":"ဒေါက်တာ အရှင်နန္ဒမာလာဘိဝံသ",
-
-#mp3 ဖြစ်နေရင် thumb image link ထည့်ရန်။
-"tayarBmp1":"",
-"tayarBmp2":"https://i.pinimg.com/736x/26/9e/bb/269ebbd47a57fad8d1290f7cbc507863.jpg",
-"tayarBmp3":"",
-"tayarBmp4":"",
-"tayarBmp5":"",
-"tayarBmp6":"",
+"tayarName7":"7",
+"tayarName8":"8",
+"tayarName9":"9",
 
 #type အမျိုးအစား ထည့်ရန်
 
@@ -23,6 +19,20 @@
 "tayar4Type":"",
 "tayar5Type":"",
 "tayar6Type":"",
+"tayar7Type":"",
+"tayar8Type":"",
+"tayar9Type":"",
+
+#mp3 ဖြစ်နေရင် thumb image link ထည့်ရန်။
+"tayarBmp1":"",
+"tayarBmp2":"https://i.pinimg.com/736x/26/9e/bb/269ebbd47a57fad8d1290f7cbc507863.jpg",
+"tayarBmp3":"",
+"tayarBmp4":"",
+"tayarBmp5":"",
+"tayarBmp6":"",
+"tayarBmp7":"",
+"tayarBmp8":"",
+"tayarBmp9":"",
 
 "asaLink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44xmshOOvBpT28yCfSiOb0Ow==",
 
