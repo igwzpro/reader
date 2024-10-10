@@ -4,22 +4,22 @@
 "tayarName1":"မဟာသမယသုတ် (ရုပ်သံ)",
 "tayarName2":"၂၄ ပစ္စည်းပဌာန်း (အသံ)",
 "tayarName3":"ပရိတ်ကြီး (၁၁) သုတ်",
-"tayarName4":"မေတ္တာပို့",
-"tayarName5":"ဓမ္မစကြာ",
-"tayarName6":"ဒေါက်တာ အရှင်နန္ဒမာလာဘိဝံသ",
-"tayarName7":"ဂုဏ်တော်ကွန်ချာ",
-"tayarName8":"8",
-"tayarName9":"9",
+"tayarName4":"ဂုဏ်တော်ကွန်ချာ",
+"tayarName5":"uploading",
+"tayarName6":"uploading",
+"tayarName7":"uploading",
+"tayarName8":"uploading",
+"tayarName9":"uploading",
 
 #type အမျိုးအစား ထည့်ရန်
 
 "tayar1Type":"mp4",
 "tayar2Type":"mp3",
 "tayar3Type":"mp4",
-"tayar4Type":"",
+"tayar4Type":"mp3",
 "tayar5Type":"",
 "tayar6Type":"",
-"tayar7Type":"mp3",
+"tayar7Type":"",
 "tayar8Type":"",
 "tayar9Type":"",
 
@@ -54,13 +54,13 @@
 
 "tayarVideo3":"https://www.dropbox.com/scl/fi/es93w8r7yxsmgqrygh9wm/.tayar3?rlkey=3p60y37fned5ewujzv7itpn3m&st=kmwu3irs&dl=1",
 
-"tayarVideo4":"",
+"tayarVideo4":"https://www.dropbox.com/scl/fi/ebyrqnkx3i1eiflepkfu6/.tayar7?rlkey=jf4rkql8x16xrwid7lssg5cm8&st=tv7k20ry&dl=1",
 
 "tayarVideo5":"",
 
 "tayarVideo6":"",
 
-"tayarVideo7":"https://www.dropbox.com/scl/fi/ebyrqnkx3i1eiflepkfu6/.tayar7?rlkey=jf4rkql8x16xrwid7lssg5cm8&st=tv7k20ry&dl=1",
+"tayarVideo7":"",
 
 "tayarVideo8":"",
 
