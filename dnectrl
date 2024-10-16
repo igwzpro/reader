@@ -50,31 +50,36 @@
 "slidertxt7":"“ဓါတ်ခန်းနှင့် ပညာခန်း”",
 "notice7":"                   သတိပြုပြီး လေ့လာနိုင်ရန် စုစည်းထားခြင်းဖြစ်ပါသည်။ ပညာရပ်များကို မကျွမ်းကျင်ပဲ ရမ်းသမ်းမကလိပါနှင့်။",
 
+#အင်္ဂဝိဇ္ဇာဓါတ်ခန်း
 "dneydylink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44lH8X/vhzPuk5
 YeFC5H/chg==",
 
-"igwzbooklink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44ksaWRyEECLlf
-a1PDEoY6XQ==",
-
-"quoteslink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44lXbPWUY/EHkB
-6uEb5BiztpDMVsupICB4ml4pW6N59xg=",
-
+#ဉာဏ်စမ်း
 "quizlink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44VpVUlzdLplXJ
 j90ZpkYV5w==",
 
+#အင်္ဂဝိဇ္ဇာပညာ
+"cat1link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44ksaWRyEECLlf
+a1PDEoY6XQ==",
+
+#ဦးဇောတိက
+"cat2link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44lXbPWUY/EHkB
+6uEb5BiztpDMVsupICB4ml4pW6N59xg=",
+
 #စိတ်ညှို့
-"knowledgelink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44FejJlmgYa1JL
+"cat3link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44FejJlmgYa1JL
 P/H6PcmqhQ==",
 
 #တားရော့
-"brainwashlink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44ZrUhfcpn2mk1
+"cat4link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44ZrUhfcpn2mk1
 A9T6wAyX7g==",
 
 #နိမိတ်နှင့်အခြား
-"storylink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44+1wyTsl/qUAp
+"cat5link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44+1wyTsl/qUAp
 N9a6led+Jw==",
 
-"ownlogiclink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44PSRiN1Soy4s4gEM0mmL1pXuIzAr/XQXeYNnWEiSgCgQ=",
+#ကိုယ်တွေ့ယတြာများ
+"cat6link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44PSRiN1Soy4s4gEM0mmL1pXuIzAr/XQXeYNnWEiSgCgQ=",
 
 "userslink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhJuRGSrJPQ3skPnY7r4lL44jDlticOHhkIDz4LLraTSUw==",
 
