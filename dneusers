@@ -21,32 +21,38 @@
 #blockusers
 "blockusers":"",
 
-#passwordbypass
+#passwordbypass အင်္ဂဝိဇ္ဇာပညာနှင့် ဓါတ်ခန်း
 "noseculist":"2b9706220ffbf434 f6a40f534355d8c7",
 
 #screenshotblock fr33 ဆို လူတိုင်းရ
 "scrreclist":"2b9706220ffbf434",
 
-#အင်္ဂဝိဇ္ဇာ
-"igwzlist":"2b9706220ffbf434 f6a40f534355d8c7",
-
-#စိတ်ပညာ
-"knowledgelist":"2b9706220ffbf434 f6a40f534355d8c7",
-
-#အခြားနှင့် နိမိတ်ပညာ
-"otherlist":"2b9706220ffbf434 f2b9706220ffbf434 6a40f534355d8c7",
-
-#တားရော့
-"bwashlist":"2b9706220ffbf434 f6a40f534355d8c7",
-
 #ဉာဏ်စမ်း
 "quizlist":"fr33 2b9706220ffbf434 f6a40f534355d8c7 d4946b3ec38f6378",
 
-#ဆရာတော်‌ဦးဇောတိက
-"quoteslist":"2b9706220ffbf434 f6a40f534355d8c7",
+#အင်္ဂဝိဇ္ဇာ
+#igwz
+"cat1list":"2b9706220ffbf434 f6a40f534355d8c7",
 
-#ယတြာများ ဂါထာများ တင်ထားသည်
-"ownlist":"2b9706220ffbf434 f6a40f534355d8c7 9b155dc4bfaec505",
+#ဆရာတော်‌ဦးဇောတိက
+#quotes
+"cat2list":"2b9706220ffbf434 f6a40f534355d8c7",
+
+#တားရော့
+#bwash
+"cat3list":"2b9706220ffbf434 f6a40f534355d8c7",
+
+#စိတ်ညှို့ပညာ
+#knowledge
+"cat4list":"2b9706220ffbf434 f6a40f534355d8c7",
+
+#အခြားနှင့် နိမိတ်ပညာ
+#other
+"cat5list":"2b9706220ffbf434 f2b9706220ffbf434 6a40f534355d8c7",
+
+#ယတြာများ ပွဲတွေ့ဂါထာများ တင်ထားသည်
+#own
+"cat6list":"2b9706220ffbf434 f6a40f534355d8c7 9b155dc4bfaec505",
 
 #update မလုပ်ဘူးထင်သူစာရင်း
 "notyetupdatelist":"",
