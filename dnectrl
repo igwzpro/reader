@@ -13,15 +13,15 @@
 
 "winyannum":"kjltdpswRyn7V/dyif4SUA==",
 
-#splashVideo တင်ရန် .tempmainspl, .tempendespl, .tempmainty လို့အမည်ပေးပါ။ (.) ခံပြီးပါက encrypt လုပ်ပါ။ ပြီးမှ upload လုပ်ပြီး link ယူပါ။
+#splashVideo တင်ရန် .tempigwzspl, .tempendespl, .tempcompspl, .tempquizspl လို့အမည်ပေးပါ။ (.) ခံပြီးပါက encrypt လုပ်ပါ။ ပြီးမှ upload လုပ်ပြီး link ယူပါ။
 
 "igwzSplash":"https://www.dropbox.com/scl/fi/k7hpdd2a33h34ccll9lz6/.tempigwzspl?rlkey=khkrnyw5fjlzznyyrf2bbodhl&st=dbgm755a&dl=1",
 
 "endeSplash":"https://www.dropbox.com/scl/fi/2787mqgu372x01dyz154o/.tempendespl?rlkey=v3yx7g9kupgh5zk45giay5loe&st=rqxoy4rm&dl=1",
 
-"compassSplash":"https://www.dropbox.com/scl/fi/runxfwwbstgg71cei4c8e/.tempcompspl?rlkey=j7iqh2vhm4asl9tbglxos9bjb&st=qa9bhf5c&dl=1",
+"compassSplash":"",
 
-"quizSplash":"https://www.dropbox.com/scl/fi/gvvic32z8v9ahktc1jpuz/.tempquizspl?rlkey=25j4m128cgc0wn861503c9vuc&st=0kx8sndn&dl=1",
+"quizSplash":"",
 
 "igwzSliderImage1":"https://i.pinimg.com/736x/ec/82/c7/ec82c7a2d78dca549938a8613051d7f7.jpg",
 "slidertxt1":"“စိတ်အားဖြည့်စာများ”",
