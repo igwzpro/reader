@@ -2,12 +2,21 @@
 
 
 
-"adptp":"",
-"yzp":"",
-"thp":"",
-"atp":"",
-"mrnp":"",
-"bgp":"",
-"ptp":""
+
+"0ky":"0",
+"1ky":"1",
+"2ky":"2",
+"3ky":"3",
+"4ky":"4",
+"5ky":"5",
+"6ky":"6",
+
+"adptp":"adpt",
+"yzp":"yz",
+"thp":"th",
+"atp":"at",
+"mrnp":"mrn",
+"bgp":"bg",
+"ptp":"pt"
 
 ]
