@@ -1,7 +1,16 @@
+
 {
-
-"spKeys":["spinga","spttpn","spmhb"],
-
-"keyNamesMap":{"sararng", "igwzspyoe", "mateyanudanth"}
-
+  "spKeys": ["spmhb", "spttpn", "spinga", "spgpsy"],
+  "keyNamesMap": {
+    "1num": "ဂဏန်းတစ်",
+    "2num": "ဂဏန်းနှစ်",
+    "3num": "ဂဏန်းသုံး",
+    "4num": "ဂဏန်းလေး",
+    "5num": "ဂဏန်းငါး",
+    "6num": "ဂဏန်းခြောက်",
+    "7num": "ဂဏန်းခုနှစ်",
+    "8num": "ဂဏန်းရှစ်",
+    "9num": "ဂဏန်းကိုး",
+    "bgp": "ဥပမာ"
+  }
 }
