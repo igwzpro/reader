@@ -1,12 +1,10 @@
-#spKeys များထပ်ဖြည့်ရန် အပေါ်ဆုံးမှာထားသည်။
-#spKeys များထပ်ဖြည့်ပြီးမှ အောက်မှာ keys တွေဖြည့်ပါ
 {
 
 
 
 "spKeys":["spmhb, spttpn, spinga, spgpsy"],
 
-"keyNamesMap":["sararng": "စရာနိုင်_ဧကံသ",
+"keyNamesMap":{"sararng": "စရာနိုင်_ဧကံသ",
 "igwzspyoe": "ဆိုရိုးများ_အင်္ဂဝိဇ္ဇာ",
 "mateyanudanth": "မိတ်ရန်ဥဒါသိန်",
 "igwzpower": "အင်္ဂဝိဇ္ဇာစွမ်းအင်",
@@ -138,6 +136,6 @@
 "thuthetyk": "ကြာသာပတေးသက်ရောက်",
 "rahthetyk": "ရာဟုသက်ရောက်",
 "frithetyk": "သောကြာသက်ရောက်",
-"aboutbomi": "ဘူမိလေးမျိုး"]
+"aboutbomi": "ဘူမိလေးမျိုး"}
 
 }
