@@ -8,8 +8,8 @@
 "tayarName2":"၂၄ ပစ္စည်းပဌာန်း (အသံ)",
 "tayarName3":"ပရိတ်ကြီး (၁၁) သုတ် (အသံ)",
 "tayarName4":"ဂုဏ်တော်ကွန်ချာ (အသံ)",
-"tayarName5":"စာရေးဆရာ နန္ဒသိန်းဇံ",
-"tayarName6":"ပထဝီဇယ (၁၄) ဂါထာ",
+"tayarName5":"ပထဝီဇယ (၁၄) ဂါထာ (အသံ)",
+"tayarName6":"uploading",
 "tayarName7":"uploading",
 "tayarName8":"uploading",
 "tayarName9":"uploading",
@@ -67,9 +67,9 @@
 
 "tayarVideo4":"https://www.dropbox.com/scl/fi/ebyrqnkx3i1eiflepkfu6/.tayar4?rlkey=jf4rkql8x16xrwid7lssg5cm8&st=s8raihkn&dl=1",
 
-"tayarVideo5":"https://www.dropbox.com/scl/fi/7hxnf6vkzb3dc3c7zyamr/.tayar5?rlkey=fv3oxgta32234wexfpejm4cgq&st=v1f5htlm&dl=1",
+"tayarVideo5":"",
 
-"tayarVideo6":"https://www.dropbox.com/scl/fi/ywjsslsorlwbqmwktg1mt/.tayar6?rlkey=wjifff7deps5eaj549nglhtlt&st=o8wkxvc1&dl=1",
+"tayarVideo6":"",
 
 "tayarVideo7":"",
 
@@ -88,7 +88,7 @@
 
 #narcinType အမျိုးအစား ထည့်ရန်
 
-"narcin1Type":"mp4",
+"narcin1Type":"mp3",
 "narcin2Type":"mp3",
 "narcin3Type":"mp4",
 "narcin4Type":"mp3",
@@ -114,7 +114,7 @@
 
 #.tempnarcin1 234567 နဲ့ encrypt လုပ်ပြီးတင်။
 
-"narcinVideo1":"",
+"narcinVideo1":"https://www.dropbox.com/scl/fi/snjp4w79mnh0xq1rule8d/.narcin1?rlkey=0098skoldi0l98bv29br8a6c2&st=os4h1wyu&dl=1",
 
 "narcinVideo2":"",
 
