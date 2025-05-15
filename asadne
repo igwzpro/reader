@@ -28,13 +28,21 @@
 
 #mp3 ဖြစ်နေရင် thumb image link ထည့်ရန်။
 "tayarBmp1":"",
+
 "tayarBmp2":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
 "tayarBmp3":"",
+
 "tayarBmp4":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
 "tayarBmp5":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
 "tayarBmp6":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
 "tayarBmp7":"",
+
 "tayarBmp8":"",
+
 "tayarBmp9":"",
 
 "asaLink":"https://raw.githubusercontent.com/igwzpro/reader/main/dnectrl",
@@ -68,8 +76,59 @@
 "tayarVideo8":"",
 
 "tayarVideo9":"",
+#တစ်ခုစာ ပြီး၏။
+#နားဆင်စရာအမည်ပြခြင်း
+"narcinName1":"စာရေးဆရာ နန္ဒသိန်းဇံ",
+"narcinName2":"uploading",
+"narcinName3":"uploading",
+"narcinName4":"uploading",
+"narcinName5":"uploading",
+"narcinName6":"uploading",
+"narcinName7":"uploading",
 
-#တစ်ခုစာ ပြီး၏
+#narcinType အမျိုးအစား ထည့်ရန်
+
+"narcin1Type":"mp4",
+"narcin2Type":"mp3",
+"narcin3Type":"mp4",
+"narcin4Type":"mp3",
+"narcin5Type":"mp3",
+"narcin6Type":"mp3",
+"narcin7Type":"",
+
+#mp3 ဖြစ်နေရင် thumb image link ထည့်ရန်။
+
+"narcinBmp1":"",
+
+"narcinBmp2":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"narcinBmp3":"",
+
+"narcinBmp4":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"narcinBmp5":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"narcinBmp6":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"narcinBmp7":"",
+
+#.tempnarcin1 234567 နဲ့ encrypt လုပ်ပြီးတင်။
+
+"narcinVideo1":"",
+
+"narcinVideo2":"",
+
+"narcinVideo3":"",
+
+"narcinVideo4":"",
+
+"narcinVideo5":"",
+
+"narcinVideo6":"",
+
+"narcinVideo7":"",
+
+#နားဆင်ပြီး၏။
 
 #.tempadvid နဲ့ encrypt လုပ်ပြီးတင်။
 
