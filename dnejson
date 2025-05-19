@@ -4,7 +4,7 @@
 
 "click_actions":{
     "btn1": "TestActivity",
-    "btn2": "Test2Activity",
+    "btn2": "Test1Activity",
     "btn3": "ThreeActivity",
     "btn4": "FourActivity"},
 
