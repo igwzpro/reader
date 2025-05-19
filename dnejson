@@ -3,10 +3,10 @@
 
 
 "click_actions":{
-    "bt1": "TestActivity",
-    "button2": "ThreeActivity",
-    "button3": "FourActivity",
-    "button4": "FiveActivity"},
+    "btn1": "OneActivity",
+    "btn2": "TwoActivity",
+    "btn3": "ThreeActivity",
+    "btn4": "FourActivity"},
 
 "spKeys":["spinga, spmhb, spgpsy, spttpn"],
 
