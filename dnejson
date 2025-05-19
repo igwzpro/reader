@@ -1,5 +1,13 @@
 {
 
+
+
+"click_actions":{
+    "button1": "TwoActivity",
+    "button2": "ThreeActivity",
+    "button3": "FourActivity",
+    "button4": "FiveActivity"},
+
 "spKeys":["spinga, spmhb, spgpsy, spttpn"],
 
 "keyNamesMap":{"sararng": "စရာနိုင်_ဧကံသ", "igwzmethod":"သီအိုရီ", "igwzspyoe": "ဆိုရိုးများ_အင်္ဂဝိဇ္ဇာ", "mateyanudanth": "မိတ်ရန်ဥဒါသိန်", "igwzpower": "အင်္ဂဝိဇ္ဇာစွမ်းအင်", "igwzcredit": "မူလပိုင်ရှင်များ", "manantaw": "မ", "thinantaw": "သိ", "kyanantaw": "ကြ", "hlyinnantaw": "လျှင်", "twaenantaw": "တွေး", "sanantaw": "ဆ", "ownnantaw": "ဦး", "amany": "အမြစ်အညွန့်", "sawhla": "စောလှ", "sppsp": "ဆပွတ်ပဉ္စပွတ်", "nawin": "နဝင်း", "amyak": "အမြစ်", "tharcpy": "သာစည်ပင်းယ", "outryu": "အပြင်အာယု", "inryu": "အတွင်းအာယု", "upjo": "အထက်ကပ်ဂြိုဟ်", "eightayet": "အရပ်ရှစ်မျက်နှာ", "dattwel": "ဓါတ်တွဲ", "upsgdnky": "အထက်ဆောင်ပန်း", "sunsy": "ဆန်းစရေ", "monsy": "မန်းစရေ", "tuesy": "ဂါစရေ", "wedsy": "ဟူးစရေ", "thusy": "ကြာစ‌ရေ", "frisy": "သောစရေ", "satsy": "နေစနေ",
