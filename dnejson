@@ -3,7 +3,7 @@
 
 
 "click_actions":{
-    "button1": "TwoActivity",
+    "bt1": "MeowLinearActivity",
     "button2": "ThreeActivity",
     "button3": "FourActivity",
     "button4": "FiveActivity"},
