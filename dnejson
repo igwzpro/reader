@@ -1,10 +1,8 @@
 {
 
-"open_dialogs":{"btn1":"aboutUrD"},
-
 
 "click_actions":{
-    "btn1": "Test1Activity",
+    "lot1": "IgwzvidActivity",
     "btn2": "TestActivity",
     "btn3": "",
     "tver": ""},
