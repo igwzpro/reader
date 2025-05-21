@@ -16,7 +16,7 @@ getWindow().setStatusBarColor(Color.TRANSPARENT);
 
 //onCreate မှာ တိုက်ရိုက်ထည့်ရမည်။ ဖုန်းကင်မရာ နေရာနဲ့တော့ Linear တွေချိန်ရမည်။ margin Top ကို 40dp လောက်ခွာထားမှာ အဆင်ပြေမည်။",
 "title":"နိုတီဘားနဲ့ နေဗီဘားကို ဖျောက်ခြင်း",
-"imgurl":""},
+"imglink":""},
 
 {"id":"1","code":"int nightModeFlags = getResources().getConfiguration().uiMode & android.content.res.Configuration.UI_MODE_NIGHT_MASK;
 
@@ -26,6 +26,6 @@ darkModeEnabled = (nightModeFlags == android.content.res.Configuration.UI_MODE_N
 
 //more block မှာ အမည်တစ်ခုနဲ့ထည့်ရမည်။ darkModeEnabled လို့ Boolean variable ထည့်ရမည်။ onCreate မှာ အခုဟာကို ထည့်ထားမှရမည်။",
 "title":"Dark Mode စစ်ဆေးခြင်း",
-"imgurl":"https://i.pinimg.com/736x/da/c3/44/dac3447dc0bf1a874a15f5e7160afd21.jpg"}
+"imglink":"https://i.pinimg.com/736x/da/c3/44/dac3447dc0bf1a874a15f5e7160afd21.jpg"}
 
 ]
