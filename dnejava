@@ -16,7 +16,7 @@ lot1.playAnimation();
 ///ပုံပါအတိုင်း Share preference ထည့်။ network တွေထည့်။ json သိမ်း။ string variable ထည့်။ onPostCreate မှာထည့်။ lottie attributes ပြင်။ ပြင်နည်း....
 
 //custom attributes ထည့်ခြင်း ပုံကြည့်ပါ",
-"imglink":"https://i.pinimg.com/736x/ef/69/0a/ef690aea97ee496548d694d8407a30b6.jpg"},
+"imglink":"https://www.dropbox.com/scl/fi/1o765h9vxqqthlv2vwbnp/IMG_20250521_181834.png?rlkey=9zzu2tbusim6ljwmpxhfzz6eo&st=m12xbk1o&dl=1"},
 
 {"id":"2","code":"getWindow().getDecorView().setSystemUiVisibility( View.SYSTEM_UI_FLAG_HIDE_NAVIGATION | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);
 getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
