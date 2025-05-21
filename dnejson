@@ -4,6 +4,7 @@
 "click_actions":{
     "t10": "JavaActivity",
     "lot1": "",
+    "progressText":"",
     "tver": ""},
 
 "spKeys":["spinga, spmhb, spgpsy, spttpn"],
