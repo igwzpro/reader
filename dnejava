@@ -34,7 +34,7 @@ getWindow().setStatusBarColor(Color.TRANSPARENT);
 
 ///onCreate မှာ တိုက်ရိုက်ထည့်ရမည်။ ဖုန်းကင်မရာ နေရာနဲ့တော့ Linear တွေချိန်ရမည်။ margin Top ကို 40dp လောက်ခွာထားမှာ အဆင်ပြေမည်။",
 "title":"နိုတီဘားနဲ့ နေဗီဘားကို ဖျောက်ခြင်း",
-"imglink":""},
+"imglink":"https://i.postimg.cc/50hM5vc5/IMG-20250521-181834.png"},
 
 {"id":"1","code":"int nightModeFlags = getResources().getConfiguration().uiMode & android.content.res.Configuration.UI_MODE_NIGHT_MASK;
 
