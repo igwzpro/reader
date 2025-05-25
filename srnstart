@@ -20,10 +20,6 @@
 
 #encrypt လုပ်ပြီးတင်။
 
-"adPreVideo":"https://www.dropbox.com/scl/fi/tbqeubex9c3g9wowbtiur/.tempadprev?rlkey=36zkuz8zzf7xjtkr9jjn9kd4m&st=361kn3sf&dl=1",
-
-#encrypt လုပ်ပြီးတင်။
-
 "newVideo":"https://www.dropbox.com/scl/fi/si71sur2hpciwqqypkad0/newVideo.mp4?rlkey=u8vy37jnsj2xyvauk7lgjqckq&st=9ql4isvo&dl=1",
 
 "newAbout":"ဖိုးကာ မှားချင်တယ်",
@@ -32,7 +28,7 @@
 
 "newAddr":"https://www.tiktok.com/@darmmpy",
 
-#new lottie ကို click
+#new lottie ကို click link End.
 
 #encrypt လုပ်ပြီးတင်။
 
@@ -52,6 +48,16 @@
 
 "adTimer1":"16",
 
-"adAddr1":"https://www.tiktok.com/@vesna.pocuca.sana?_t=ZS-8wMxFhzdV0T&_r=1"
+"adAddr1":"https://www.tiktok.com/@vesna.pocuca.sana?_t=ZS-8wMxFhzdV0T&_r=1",
+
+#encrypt လုပ်ပြီးတင်။
+
+"adVideo2":"https://www.dropbox.com/scl/fi/tbqeubex9c3g9wowbtiur/.tempadprev?rlkey=36zkuz8zzf7xjtkr9jjn9kd4m&st=361kn3sf&dl=1",
+
+"adAbout2":"AD3",
+
+"adTimer1":"10",
+
+"adAddr2":"https://www.tiktok.com/@darmmpy"
 
 }
