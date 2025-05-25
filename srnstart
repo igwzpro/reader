@@ -26,6 +26,8 @@
 
 "newTimer":"260",
 
+"newSkip":"",
+
 "newAddr":"https://www.tiktok.com/@darmmpy",
 
 #new lottie ကို click link End.
@@ -38,6 +40,8 @@
 
 "adTimer":"40",
 
+"adSkip":"",
+
 "adAddr":"",
 
 #encrypt လုပ်ပြီးတင်။
@@ -48,6 +52,8 @@
 
 "adTimer1":"16",
 
+"adSkip1":"",
+
 "adAddr1":"https://www.tiktok.com/@vesna.pocuca.sana?_t=ZS-8wMxFhzdV0T&_r=1",
 
 #encrypt လုပ်ပြီးတင်။
@@ -57,6 +63,8 @@
 "adAbout2":"AD3",
 
 "adTimer2":"10",
+
+"adSkip2":"",
 
 "adAddr2":"https://www.tiktok.com/@darmmpy"
 
