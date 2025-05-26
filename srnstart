@@ -67,6 +67,18 @@
 
 "adSkip2":"10",
 
-"adAddr2":""
+"adAddr2":"",
+
+#encrypt လုပ်ပြီးတင်။
+
+"adVideo3":"https://www.dropbox.com/scl/fi/vsitu5mwyapwnwuka00lu/camerashoot.mp4?rlkey=3xspbu8a3i9xeztboi34hbft9&st=9bsolel9&dl=1",
+
+"adAbout3":"AD4",
+
+"adTimer3":"60",
+
+"adSkip3":"10",
+
+"adAddr3":""
 
 }
