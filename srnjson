@@ -2,6 +2,11 @@
 
 
 "click_actions":{
+    "po0": "",
+    "po1": "",
+    "po2": "",
+    "po3": "",
+    "po4": "",
     "t10": "JavaActivity",
     "lot1": "",
     "progressText":"",
