@@ -2,7 +2,8 @@
 
 
 "click_actions":{
-    "p1": "MainActivity",
+#java slider ကို နှိပ် activity ပြောင်းခြင်း
+    "p1": "",
     "p2": "",
     "p3": "",
     "p4": "",
